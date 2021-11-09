@@ -1,0 +1,4 @@
+build --remote_cache=remote.buildbuddy.io
+build --remote_download_toplevel
+build --announce_rc
+build --verbose_failures
